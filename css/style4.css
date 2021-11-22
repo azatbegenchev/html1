@@ -1,0 +1,20 @@
+body {
+	background-image: url(../img/neon.jpg);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	/*border: 1px solid;
+	border-style: dashed;
+	margin: auto;*/
+	text-align: center;
+
+}
+
+p {
+	border: 1px solid;
+	padding: 25px;
+	margin: auto;
+}
+
+

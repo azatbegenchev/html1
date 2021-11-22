@@ -1,0 +1,11 @@
+.main {
+	background-image: url('../img/buble.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	/*background-color: #741C71;
+	color: green;
+
+}
